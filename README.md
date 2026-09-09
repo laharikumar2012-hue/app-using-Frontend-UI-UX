@@ -75,3 +75,6 @@ Share
 Follow creators
 Your Reels/Friends screen can represent this module.
 https://stitch.withgoogle.com/preview/3107986104169165724?node-id=f4e42f130c0c4fe1864779b779d168e2
+stitch project screenshot:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/eb4054e5-d8d9-49c2-a03b-568bc5a0775c" />
+
