@@ -79,6 +79,7 @@ stitch project screenshot:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/eb4054e5-d8d9-49c2-a03b-568bc5a0775c" />
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8f3f9056-7c59-49c5-9108-4cb87ac43b46" />
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ae448a27-a976-445f-9a98-568d2308468f" />
-
+this is the live URL of my website:
+https://laharikumar2012-hue.github.io/app-using-Frontend-UI-UX/
 
 
